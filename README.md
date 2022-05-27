@@ -1,3 +1,3 @@
-### chaelin0722.github.io/personal_introduction
+### chaelin0722.github.io/introduction
 
 personal introduction page
